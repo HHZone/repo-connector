@@ -16,6 +16,10 @@
          {
              "smartling" : "ur",
              "application" : "ur-URDU"
+         },
+         {
+             "smartling" : "pa-IN",
+             "application" : "pa-INDI"
          }
      ],
 
