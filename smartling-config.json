@@ -20,6 +20,10 @@
          {
              "smartling" : "pa-IN",
              "application" : "pa-INDI"
+         },
+         {
+             "smartling" : "pl-PL",
+             "application" : "pl_PL"
          }
      ],
 
