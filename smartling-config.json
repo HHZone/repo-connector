@@ -24,6 +24,10 @@
          {
              "smartling" : "pl-PL",
              "application" : "pl_PL"
+         },
+         {
+             "smartling" : "th-TH",
+             "application" : "th_THAI"
          }
      ],
 
