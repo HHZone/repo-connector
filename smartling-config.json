@@ -10,6 +10,10 @@
              "application" : "zh-Hans"
          },
          {
+             "smartling" : "zh-SG",
+             "application" : "zh-SING"
+         },
+         {
              "smartling" : "zh-TW",
              "application" : "zh-Hant"
          },
