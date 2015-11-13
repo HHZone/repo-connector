@@ -16,22 +16,6 @@
          {
              "smartling" : "zh-TW",
              "application" : "zh-Hant"
-         },
-         {
-             "smartling" : "ur",
-             "application" : "ur-URDU"
-         },
-         {
-             "smartling" : "pa-IN",
-             "application" : "pa-INDI"
-         },
-         {
-             "smartling" : "pl-PL",
-             "application" : "pl_PL"
-         },
-         {
-             "smartling" : "th-TH",
-             "application" : "th_THAI"
          }
      ],
 
